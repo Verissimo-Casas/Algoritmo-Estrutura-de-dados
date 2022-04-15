@@ -1,0 +1,18 @@
+//import for project
+let prompt = require('prompt-sync')();
+
+//Entrada de dados 
+let valor1 = +prompt();
+let valor2 = +prompt();
+
+//Processamento
+
+const soma = +(valor1, valor2) => {
+
+}
+console.log(soma);
+// parseFloat(valor1, valor2);
+// let X = valor1 + valor2;
+
+//Saida de dados
+// console.log(`Olá, mundo! ${X}\n`);
